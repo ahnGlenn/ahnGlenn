@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Glenn's%20Github&fontSize=25&fontColor=#703ee5" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Glenn's%20Github&fontSize=25&fontColor=#703ee5" />
 
 ## Hi there 👋
 - 🔭 I’m currently working on ...
