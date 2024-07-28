@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Glenn's%20Github&fontSize=30&fontColor=703ee5" />
 
 ## Hi there 👋
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,8 +11,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...<img src="" />
--- >
-
+-->
+  
 🚀 OS 
 <br />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
