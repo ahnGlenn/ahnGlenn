@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Glenn's%20Github&fontSize=30&fontColor=703ee5" />
-
-## Hi there 👋
-
 <!--
 https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#-os
+## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,10 +10,14 @@ https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#-os
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...<img src="" />
+- 💻💪
 -->
 
-## 💪 Experience
+## 💻 project
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 <br /><br />
+
 
 ## 🚀 OS 
 <div style="display:flex; flex-direction:row;">
