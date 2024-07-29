@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Glenn's%20Github&fontSize=30&fontColor=703ee5" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Glenn's%20Github&fontSize=40&fontColor=703ee5" />
 <!--
 https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#-os
 ## Hi there 👋
