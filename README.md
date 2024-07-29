@@ -13,9 +13,12 @@ https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#-os
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...<img src="" />
 -->
-  
+
+## 💪 Experience
+<br /><br />
+
 ## 🚀 OS 
-<br />
+<br /><br />
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
@@ -24,7 +27,7 @@ https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#-os
 </div>
 
 ## 🚀 Skills
-<br />
+<br /><br />
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,7 +45,7 @@ https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#-os
 </div>
 
 ## 🚀 DB
-<br />
+<br /><br />
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />	
@@ -50,7 +53,7 @@ https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#-os
 </div>
 
 ## 🚀 ETC
-<br />
+<br /><br />
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
