@@ -14,8 +14,6 @@ https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#-os
 -->
 
 ## 💻 project
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 <br /><br />
 
 
