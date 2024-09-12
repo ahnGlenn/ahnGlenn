@@ -17,7 +17,7 @@ https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#-os
 <br />
 💻 Web Backend developer 
 <br />
-🇰🇷 :kr: Korean(mother tongue), 🇬🇧 English 
+🇰🇷 Korean(mother tongue), 🇬🇧 English 
 <br />
 📫 dkstkdwo93@naver.com
 <br /><br />
