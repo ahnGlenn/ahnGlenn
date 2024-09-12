@@ -14,7 +14,6 @@ https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#-os
 -->
 
 ## 🧑‍💻 SANGJAE AHN 
-<br />
 💻 Web Backend developer 
 <br />
 🇰🇷 Korean(mother tongue), 🇬🇧 English 
