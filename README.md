@@ -11,6 +11,7 @@ https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#-os
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...<img src="" />
 - 💻💪
+- icon free >> https://simpleicons.org/
 -->
 
 ## 🧑‍💻 SANGJAE AHN 
