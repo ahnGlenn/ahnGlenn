@@ -16,7 +16,7 @@ https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#-os
 [인텔리-깃헙 신규 프로젝트 연동 가이드] https://velog.io/@zerokick/IntelliJ-IntelliJ-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-GitHub-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0
 [무료 아이콘] https://simpleicons.org/
 -->
-
+<!-- 
 ## 🧑‍💻 SANGJAE AHN 
 💻 Java Web Backend developer 
 <br />
@@ -26,7 +26,7 @@ https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#-os
 <br />
 🌱 https://glenn-dev.tistory.com/
 <br /><br />
-
+-->
 <!-- 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=ahnGlenn&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
